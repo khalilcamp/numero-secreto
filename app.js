@@ -7,7 +7,7 @@
 
 // tag seria utilizado para tags vazias.
 let listaNumeros = [];
-let numeroLimite = 100;
+let numeroLimite = 50;
 let numeroSecreto = gerarNumero();
 let tentativas = 1;
 
